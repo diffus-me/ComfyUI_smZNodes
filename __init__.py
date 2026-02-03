@@ -65,4 +65,4 @@ __all__ = ["NODE_CLASS_MAPPINGS", "NODE_DISPLAY_NAME_MAPPINGS", "WEB_DIRECTORY"]
 from .smZNodes import add_custom_samplers, register_hooks
 
 add_custom_samplers()
-register_hooks()
+# register_hooks()
